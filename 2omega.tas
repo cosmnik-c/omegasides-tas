@@ -1,4 +1,4 @@
-RecordCount: 1533
+RecordCount: 2565
 # shout out to sdredstone for making the map and one the lvl_02 strat
 console load "sd3/old site/2Omega-OldSite"
    1
@@ -417,43 +417,48 @@ console load "sd3/old site/2Omega-OldSite"
   20,R,D
   14,R,D,X
    1,R,J
-  13,R,D,X
+  14,R,D,X
   40
 #lvl_a7
-   2,R,D
-  14,L,J
-  21,U,X
-  19,R,J
+   1,L
+  13,L,J
+  20,U,X
+  21,R,J
    5,R,X
-  11,R
-   8,R,J
-  31,R,K
+  10,R
+   4,R,J
+  32,R,K
    5,R,X
   19,R
-   8,R,J
-  30,R,K
-   5,R,X
-  20,R
+   7,R,J
+  38,R,K
+   5,R,U,X
+  13,R
    4,R,J
+  10,R,K
+   2,L,J
    2,R,K
-  11,R,J,G
-   1,K
-   8,L,K
-   1,J
-   2,R,J
-   6,R,Z
+   2,L,J
+   2,R,K
+   2,L,J
+   2,R,K
+   2,L,J
+   2,R,K
+   3,R,J,G
+   5,R,Z
+   4,L
    1,L,J
    8,L
   18,L,J
   12,L
    5,L,U,X
-  18
+  22
    4,R,J
    1,R,K
    1,L,D
   10,D
    2,L,D
-  15,D
+  18,D
    5,L,Z
    5
    8,L,J
@@ -504,4 +509,180 @@ console load "sd3/old site/2Omega-OldSite"
    1,R,J
    7,R,D,X
   40
-#lvl_b0
+#lvl_b0 (0)
+#MidwayChapterTime: 1:31.681(5393)
+   7
+   4,R,J
+   1,S
+   1,D,J
+  30
+  14,R,D,X
+   6,R,D,J
+   3,R
+   3,R,J,G
+  15,R,Z
+   5,R,V
+   5,R,D
+  65,R,D
+#lvl_b0key3
+  15,R,D
+  10,R,U,Z
+   6,R
+   2,R,J
+   4,R
+  17,D,X
+  18,D,C
+  30,L,X
+  35,L,C
+  35,L,X
+  20,L,C
+  15,R,J,G
+  35,R,X,G
+  25,R,C,G
+   5,R,X,G
+  22,D
+   3
+   1,J
+  17,R,U,Z
+  18,U,X
+  11,U,V
+   5,L
+  21,L,D,Z
+   7,L
+   1,L,J
+  15,L,U,Z,G
+  11,L,J,V
+   3,L
+
+  20,D
+  10,L,Z
+
+  34
+   4,R,K
+   2,R,J
+  12,R,X
+   5,R,J
+  12,R,X
+   7,R,J
+  12,R,X
+   6,R,J
+  10,R,Z
+   8,R,J
+  10,R,Z
+   6
+   1,J
+   1
+  10,R,Z
+   6
+   1,J
+   1
+  10,R,X
+  18
+  10,L,D,X
+  13
+  11,R,J
+  16,L,U,X
+   4,L,J
+   1,L,K
+   4,L
+   5,D,X
+  27,D
+   2,L,J
+  10,R,U,X
+   4,R,J
+   1,R,K
+   3,R
+  12,R,D,X
+   4,R,J
+  10,R,X
+   4,R,J
+  18,R,K
+   5,R,U,X
+   6,L
+  99
+  10,R
+  50,U,X
+***S
+#MidwayChapterTime: 1:47.355(6315)
+#lvl_b0 (1)
+  30,L,J
+   5,L,K,G
+   5,L,J,G
+  10,U,X
+  22,J
+   5,L,J,G
+   5,L,K,G
+  43,L,J,G
+#lvl_b0key1 (0)
+   5,J,G
+   5,K,G
+   5,J,G
+  18,U,X
+  17,J
+   4,R,K,G
+   4,R,J,G
+   7,R
+  10,R,X
+   7,D
+  23,L,D,X
+  18,R,D,C
+   1,R,J
+  11,D,X
+   1,L,D,J
+   7,L,D
+   7,D
+   9,R,Z
+  26,D
+   5,R,D
+   2,R
+   8,R,J
+   1,K
+   6,R,K
+  18,U,X
+   1,R
+  14,J
+   2,R,J
+   7,R,K
+   1,S
+   1,D,O
+ 102
+   3,L,J
+   7,L,D,X
+  47,D
+#lvl_b0 (2)
+   2,D
+  11,L,D,X
+  27,R,J
+   8,R,U,Z
+   1,J
+  47,L,J
+#lvl_b0key1 (1)
+  13,L,J
+  18,U,X
+   1,J
+   1,L,J
+   4,K
+   1,J
+  25,L,J
+  10,K
+   5,R,K
+   5,R
+  14,R,X
+  16,D
+   6,L,D
+  15,R,D
+  13,R,D,X
+   9,R,J
+  18,U,X
+  13,J
+   6,L,J
+  10,R,K
+   1,S
+   1,D,O
+ 103
+   5,R,J
+  10,R,D,X
+  45,D
+#lvl_b0 (3)
+MidwayChapterTime: 2:03.301(7253)
+   1
