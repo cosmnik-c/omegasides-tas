@@ -1,0 +1,32 @@
+Unsafe
+SelectCampaign, sd3/old site
+
+   1,O
+   1
+Read, preprologue, lvl_0
+  59
+   1,J
+ 369
+   1,J
+  23
+   1,J
+  46
+Read, prologue, Start
+ 274
+   1,J
+  23
+   1,J
+  46
+Read, 2omega, Start
+  59
+   1,J
+ 196
+ 170
+   1,J
+ 276
+   1,X
+  30
+   1,N
+  70
+   1,R
+ 100
